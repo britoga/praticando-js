@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+.square {
+    margin: 0 auto;
+
+    /* background-color: red; */
+    width: 300px;
+    height: 300px;
+    /* border: 1px solid red; */
+}
